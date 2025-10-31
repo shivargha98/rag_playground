@@ -1,1 +1,4 @@
+.env
 data_ingestion/data/*
+embeddings_vectordb/data/
+embeddings_vectordb/chroma_db
