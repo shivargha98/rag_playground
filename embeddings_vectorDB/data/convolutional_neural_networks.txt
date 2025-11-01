@@ -1,0 +1,11 @@
+Convolutional Neural Networks (CNNs)
+
+Convolutional Neural Networks, or CNNs, are a class of deep learning models specifically designed for processing structured grid-like data such as images and videos. They are the backbone of modern computer vision systems, powering tasks like image classification, object detection, facial recognition, and medical image analysis.
+
+The core idea behind CNNs is the use of convolutional layers that apply filters (also called kernels) over the input data to extract spatial features. Each filter captures specific patterns, such as edges, textures, or shapes. As data passes through multiple convolutional layers, CNNs learn hierarchical representations — from low-level details to high-level semantic features.
+
+A typical CNN architecture includes several key components: convolutional layers for feature extraction, pooling layers for dimensionality reduction, activation functions (like ReLU) for non-linearity, and fully connected layers for decision-making. Pooling operations, such as max pooling, reduce computation and help achieve translation invariance. Batch normalization and dropout are often used to improve training stability and reduce overfitting.
+
+Popular CNN architectures like LeNet-5, AlexNet, VGGNet, ResNet, and EfficientNet have progressively increased depth and complexity while improving performance. ResNet’s introduction of residual connections solved the vanishing gradient problem, enabling extremely deep networks. CNNs are now integrated into edge devices, autonomous systems, and healthcare diagnostics due to their high efficiency and accuracy.
+
+While CNNs excel at spatial understanding, they have limitations in handling sequential or contextual relationships, which paved the way for architectures like Transformers. Still, CNNs remain foundational in vision AI, inspiring hybrid models that combine convolutional and attention-based mechanisms for enhanced perception and reasoning.

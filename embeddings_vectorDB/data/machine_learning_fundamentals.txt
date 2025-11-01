@@ -1,0 +1,9 @@
+Machine Learning Fundamentals
+
+Machine Learning (ML) is a branch of artificial intelligence focused on building systems that learn from data rather than being explicitly programmed. The core idea is to enable computers to identify patterns and make predictions based on experience. ML algorithms can be broadly divided into supervised, unsupervised, and reinforcement learning.
+
+In supervised learning, models are trained on labeled data, meaning that each training example has a known output. Algorithms like linear regression, decision trees, and neural networks are commonly used for tasks such as classification or regression. Unsupervised learning, on the other hand, deals with unlabeled data. It aims to uncover hidden patterns using methods like clustering (e.g., K-means) and dimensionality reduction (e.g., PCA). Reinforcement learning involves an agent interacting with an environment, learning to take actions that maximize cumulative rewards—used in robotics and game AI.
+
+Modern ML workflows involve data preprocessing, feature engineering, model training, validation, and deployment. Frameworks like TensorFlow, PyTorch, and Scikit-learn have simplified experimentation and scaling of models. Evaluation metrics such as accuracy, F1-score, and MAPE help quantify model performance.
+
+Recent advancements have been driven by deep learning, which uses multi-layer neural networks to process complex data such as images or speech. The integration of ML into industries like healthcare, finance, and marketing has transformed decision-making and automation. As data grows exponentially, the emphasis is now on ethical AI, model interpretability, and reducing bias to ensure that ML systems remain trustworthy and beneficial to society.
