@@ -1,0 +1,12 @@
+The Transformer architecture has transformed artificial intelligence by introducing the concept of self-attention. 
+Transformers process input sequences in parallel, making them more efficient than traditional recurrent models. 
+Modern AI systems like GPT and BERT are built on the Transformer foundation, achieving breakthroughs in natural language understanding. 
+The scalability and versatility of the Transformer have also inspired innovations in computer vision and multimodal learning.
+India is rapidly emerging as a global technology powerhouse. 
+With its massive population of young professionals and engineers, India has become a hub for innovation and digital transformation. 
+Government programs like Digital India and Make in India are accelerating technological adoption across industries. 
+The growth of AI, fintech, and data analytics sectors reflects India’s ambition to lead in the digital era.
+Mumbai, India’s financial capital, is a city that never sleeps. 
+Mumbai hosts major financial institutions, startups, and the country’s entertainment industry. 
+Despite challenges like overcrowding and high living costs, Mumbai remains a land of opportunities and resilience. 
+Its diverse culture, fast-paced lifestyle, and entrepreneurial spirit make Mumbai the beating heart of modern India.
