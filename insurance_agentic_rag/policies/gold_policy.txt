@@ -1,0 +1,67 @@
+﻿POLICY CONTRACT: SENTINEL 'GOLD' PRIVILEGE
+UIN: SHA-HLT-GLD-2025-V1 | CATEGORY: COMPREHENSIVE
+VERSION: 2.1 
+
+
+SECTION 1: OPERATIVE CLAUSE
+The Company undertakes to indemnify the Insured Person against Medically Necessary expenses incurred for In-patient Care, Day Care Treatment, and Domiciliary Hospitalization, subject to the terms and sub-limits herein.
+
+
+SECTION 2: CORE BENEFITS
+2.1. ROOM RENT ELIGIBILITY
+    (a) The Policy covers expenses for a "Single Private A/C Room".
+    (b) Definition: A standard room with one patient bed, an attached washroom, and a couch for the attendant. It excludes "Suite", "Deluxe", "Super Deluxe", or any category with a separate living area.
+    (c) Upgrade Clause: If the Insured opts for a Suite, the Company will reimburse room charges up to the Single Private A/C Room tariff of that specific hospital. However, NO Proportionate Deduction will apply to doctor's fees or ancillary charges.
+
+
+2.2. RESTORATION OF SUM INSURED
+    (a) If the Base SI is exhausted due to claims, the Company will automatically restore 100% of the Base SI once per policy year.
+    (b) Trigger: The restoration triggers upon partial or full utilization.
+    (c) Restriction: Restored SI cannot be used for the SAME illness/disease for which a claim was already paid in the same year. It applies only to unrelated illnesses.
+
+
+2.3. NO-CLAIM BONUS (NCB)
+    (a) 10% increase in Base SI for every claim-free year, maxing out at 50%.
+    (b) If a claim is made, the NCB reduces by the same percentage (10%) in the subsequent renewal.
+
+
+SECTION 3: TREATMENT-SPECIFIC COVERAGE
+3.1. MODERN TREATMENT METHODS
+The following procedures are covered up to 50% of the Sum Insured:
+    i.  Uterine Artery Embolization
+    ii. Balloon Sinuplasty
+    iii. Deep Brain Stimulation
+    iv. Stereotactic Radio Surgeries
+    v.  Intravitreal injections
+
+
+3.2. ORGAN DONOR EXPENSES
+Covered up to the Sum Insured. Includes the cost of harvesting the organ from the donor. Excludes donor's pre/post-hospitalization and cost of the organ itself.
+
+
+3.3. MATERNITY (OPTIONAL RIDER - NOT STANDARD)
+*Unless the "Gold Plus" rider is purchased, Maternity, Childbirth, and newborn baby expenses are EXCLUDED.*
+
+
+SECTION 4: EXCLUSIONS & WAITING PERIODS
+4.1. Standard Waiting Period: 30 days for all illnesses (except Accident).
+4.2. Named Ailments (2 Years): Hysterectomy, Knee Replacement, Cataract, Sinusitis, Tonsillitis.
+4.3. Pre-Existing Diseases (PED): Covered after 36 continuous months of coverage.
+4.4. Excluded Providers: Treatment taken at "Blacklisted Hospitals" (as updated on Company website) is not covered, except in life-threatening accidents.
+
+
+SECTION 5: NETWORK & CASHLESS
+Cashless service is authorized for all hospitals listed in the Gold Network.
+    (a) Pre-auth turnaround time: 6 Hours.
+    (b) E-Card is mandatory for cashless requests.
+
+
+ANNEXURE A: GOLD NETWORK HOSPITALS
+1. [HOSP-101] St. Mary’s Cardiac Institute - Bangalore
+2. [HOSP-102] Apollo Indraprastha - New Delhi
+3. [HOSP-103] Fortis Escorts - Jaipur
+4. [HOSP-110] Max Super Speciality - Mumbai (Saket)
+5. [HOSP-112] Manipal Hospitals - Goa
+6. [HOSP-115] Lilavati Hospital - Mumbai
+7. [HOSP-120] Ruby Hall Clinic - Pune
+8. [HOSP-001] City General Hospital - Hyderabad

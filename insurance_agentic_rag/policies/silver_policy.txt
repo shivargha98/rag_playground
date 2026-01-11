@@ -1,0 +1,69 @@
+﻿POLICY CONTRACT: SENTINEL 'SILVER' HEALTH SURAKSHA
+UIN: SHA-HLT-SLV-2025-V2 | CATEGORY: RETAIL INDEMNITY
+VERSION: 4.2 
+
+
+PREAMBLE
+WHEREAS the Insured named in the Schedule hereto has by a proposal and declaration, which shall be the basis of this Contract and is deemed to be incorporated herein, applied to SENTINEL HEALTH ASSURANCE (hereinafter called the Company) for the insurance hereinafter set forth.
+
+
+SECTION A: DEFINITIONS (STRICT INTERPRETATION)
+A.1. "Base Sum Insured" (SI): The pre-declared limit of liability. Cumulative Bonus (CB) shall not be considered part of Base SI for the calculation of room rent eligibility.
+A.2. "Co-Payment": A cost-sharing requirement where the Policyholder must bear a specified percentage of the admissible claim amount.
+A.3. "Proportionate Deduction": If the Insured occupies a room category higher than eligibility, ALL associated medical expenses (Consultation, Nursing, OT Charges, Surgeon Fees) will be deducted in the same proportion as the difference between the actual room rent and the eligible room rent.
+
+
+SECTION B: SCOPE OF COVER & LIMITATIONS
+B.1. ROOM RENT & BOARDING
+    (i)  Capped at 1% of Base SI per day or Rs. 4,000, whichever is lower.
+    (ii) ICU Charges capped at 2% of Base SI per day or Rs. 7,500, whichever is lower.
+    (iii) If the Insured is admitted to a room higher than the eligibility, Clause A.3 (Proportionate Deduction) is AUTOMATICALLY triggered. Pharmacy and Consumables are exempt from proportionate deduction.
+
+
+B.2. SPECIFIC SURGERY SUB-LIMITS (ABSOLUTE CAPS)
+Notwithstanding the Sum Insured, the Company’s liability for the following procedures is restricted to:
+    (a) Cataract: Rs. 24,000 per eye (inclusive of lens).
+    (b) Total Knee Replacement (Unilateral): Rs. 1,10,000 per knee.
+    (c) Total Knee Replacement (Bilateral): Rs. 1,80,000.
+    (d) Hysterectomy: Rs. 50,000.
+    (e) Hernia (Inguinal/Umbilical): Rs. 45,000.
+    (f) Kidney Stone Removal (PCNL/Lithotripsy): Rs. 40,000.
+    
+    *Note: If the surgery is performed using Robotic Technology, an additional co-pay of 50% applies to the cost of the robotic arm/consumables.*
+
+
+B.3. ZONE-BASED CO-PAYMENT
+The premium is calculated based on Zone 3 (Rest of India). If treatment is availed in:
+    - Zone 1 (Mumbai, Delhi NCR, Bangalore): A mandatory 20% Co-pay applies.
+    - Zone 2 (Hyderabad, Chennai, Kolkata): A mandatory 10% Co-pay applies.
+    This co-pay is in ADDITION to any other mandatory co-pays (e.g., Senior Citizen co-pay).
+
+
+B.4. PRE-EXISTING DISEASES (PED)
+    (i)  Waiting Period: 48 Months from the first policy inception.
+    (ii) Specific Ailment Waiting Period: 24 Months for ENT disorders, Piles, Fissures, and Gallbladder stones.
+
+
+SECTION C: EXCLUSIONS (WHAT IS NOT COVERED)
+The Company is not liable for:
+C.1. Investigation & Evaluation: Admission solely for diagnostics (MRI, CT, Lab tests) with no active treatment.
+C.2. Unproven Treatments: Stem cell therapy, Thermokeratoplasty, Hormone Replacement Therapy.
+C.3. Modern Treatments: Oral Chemotherapy, Immunotherapy, and Vaporisation of the Prostate (Green Laser) are capped at 25% of SI per policy year.
+C.4. Miscellaneous: Registration fees, admission kits, diapers, tissue paper, and housekeeping charges.
+
+
+SECTION D: CLAIMS PROCEDURE
+D.1. CASHLESS FACILITY
+    (a) Available ONLY at Network Providers listed in Annexure 1.
+    (b) Pre-authorization request must be sent 48 hours prior to planned admission.
+    (c) For emergency admission, notification must be sent within 24 hours.
+
+
+ANNEXURE 1: SILVER NETWORK (CASHLESS HOSPITALS)
+*Note: Cashless is restricted to General Ward admissions only.*
+1. [HOSP-002] Northside Community Clinic (Trauma Only) - New Delhi
+2. [HOSP-005] Metro Public Health Center - Mumbai (Mulund)
+3. [HOSP-022] Sunshine Ortho Center - Pune
+4. [HOSP-045] West End Nursing Home - Kolkata
+5. [HOSP-088] Jan Seva Kendra - Patna
+6. [HOSP-099] Trust Charity Hospital - Chennai

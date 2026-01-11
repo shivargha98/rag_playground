@@ -1,0 +1,9 @@
+BRSR Reports in India: A Framework for Corporate Responsibility
+
+The Business Responsibility and Sustainability Report (BRSR) is India’s standardized framework for assessing and disclosing corporate sustainability performance. Introduced by the Securities and Exchange Board of India (SEBI), BRSR makes it mandatory for the top 1,000 listed companies to report their environmental, social, and governance practices.
+
+BRSR replaced the older Business Responsibility Report (BRR) and aligns with global sustainability disclosure standards such as GRI and TCFD. It evaluates companies across nine principles derived from the National Guidelines on Responsible Business Conduct (NGRBC), covering ethics, environment, employee welfare, stakeholder engagement, and human rights.
+
+The report has two formats — BRSR Core and BRSR Comprehensive. The Core version includes key metrics for ESG benchmarking, enabling comparability across companies and sectors. It focuses on measurable data points like energy usage, carbon footprint, gender diversity, and supply chain ethics. This data-driven approach aims to improve transparency and accountability in India’s corporate ecosystem.
+
+BRSR reporting is expected to strengthen investor confidence, enhance sustainability governance, and align Indian companies with global ESG norms. As India moves toward a net-zero economy, BRSR plays a crucial role in integrating sustainability into the corporate DNA and fostering a culture of responsible business.
