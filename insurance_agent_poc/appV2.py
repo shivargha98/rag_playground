@@ -70,7 +70,7 @@ class AgenticSystem:
         # 1. Google Gemini (The Brain)
         self.llm = ChatGoogleGenerativeAI(
             model="gemini-2.5-flash",
-            #google_api_key="AIzaSyAMm1jvDyuSf7026ZxLMyZDmAxM71_rnQw",
+            #google_api_key="",
             temperature=0
         )
         self.embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2')
