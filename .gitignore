@@ -3,4 +3,3 @@ data_ingestion/data/*
 embeddings_vectordb/chroma_db
 embeddings_vectordb/faiss_index
 query_enhancement/chromadb
-insurance_agent_poc

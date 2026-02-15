@@ -1,4 +1,4 @@
-﻿POLICY CONTRACT: SENTINEL 'GOLD' PRIVILEGE
+﻿POLICY CONTRACT: Nova Health 'GOLD' PRIVILEGE
 UIN: SHA-HLT-GLD-2025-V1 | CATEGORY: COMPREHENSIVE
 VERSION: 2.1 
 
@@ -60,7 +60,7 @@ ANNEXURE A: GOLD NETWORK HOSPITALS
 1. [HOSP-101] St. Mary’s Cardiac Institute - Bangalore
 2. [HOSP-102] Apollo Indraprastha - New Delhi
 3. [HOSP-103] Fortis Escorts - Jaipur
-4. [HOSP-110] Max Super Speciality - Mumbai (Saket)
+4. [HOSP-110] Max Super Speciality - Mumbai
 5. [HOSP-112] Manipal Hospitals - Goa
 6. [HOSP-115] Lilavati Hospital - Mumbai
 7. [HOSP-120] Ruby Hall Clinic - Pune
