@@ -191,7 +191,7 @@ st.title("🛡️ Member Advantage AI")
 
 # API Key Handling
 if "api_key" not in st.session_state:
-    st.session_state.api_key = "AIzaSyCeyJm3HWTh0EPQW2yPjaFMyljrTlOlZL0"
+    st.session_state.api_key = ""
 
 with st.sidebar:
     # st.header("Settings")

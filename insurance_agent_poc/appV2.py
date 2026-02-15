@@ -76,7 +76,7 @@ class AgenticSystem:
         self.embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2')
         
         # 2. ElevenLabs (The Mouth & Ears)
-        self.eleven = ElevenLabs(api_key="sk_37d80bdf4034fc03f39c1109828397d20e83fcc27d42e2e0")
+        self.eleven = ElevenLabs(api_key="")
         
         self._init_rag()
 
@@ -152,8 +152,8 @@ with st.sidebar:
     st.markdown("### Settings")
     
     # Secure Key Entry
-    g_key = "AIzaSyAMm1jvDyuSf7026ZxLMyZDmAxM71_rnQw"
-    e_key = "sk_37d80bdf4034fc03f39c1109828397d20e83fcc27d42e2e0"
+    g_key = ""
+    e_key = ""
     
     st.divider()
     
