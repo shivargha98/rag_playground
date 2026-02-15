@@ -1,6 +1,6 @@
 # RAG Playground
 
-A hands-on learning repository that progresses from foundational RAG (Retrieval-Augmented Generation) concepts to production-style agentic RAG systems — culminating in a voice-enabled insurance assistant POC.
+A hands-on experimentation repository featuring foundational RAG (Retrieval-Augmented Generation) concepts to production-style agentic RAG systems —> culminating in a voice-enabled insurance assistant POC.
 
 ## Project Structure
 
@@ -159,7 +159,3 @@ TAVILY_API_KEY=your_tavily_api_key
 | `GOOGLE_API_KEY` | All notebooks and the insurance POC (Gemini LLM) |
 | `PINECONE_API_KEY` | Pinecone vector DB notebook only |
 | `TAVILY_API_KEY` | Agentic RAG web search tools |
-
-## License
-
-This project is for educational purposes.
