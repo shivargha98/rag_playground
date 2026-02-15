@@ -96,7 +96,7 @@ class AgenticSystem:
         # Initialize Gemini Components
         self.llm = ChatGoogleGenerativeAI(
             model="gemini-2.5-flash", 
-            google_api_key="AIzaSyCeyJm3HWTh0EPQW2yPjaFMyljrTlOlZL0", 
+            #google_api_key="AIzaSyCeyJm3HWTh0EPQW2yPjaFMyljrTlOlZL0", 
             temperature=0
         )
         self.embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2')
